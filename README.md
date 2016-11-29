@@ -14,14 +14,12 @@ to discover hidden folders and backups that might contain valuable information.
 > pip install --upgrade ipwhois
 
 or
-
 > pip install -e git+github.com/secynic/ipwhois@master#egg=ipwhois
 
-For Linux Users:
+- For Linux Users:
 > pip3 install --upgrade ipwhois
 
 or
-
 > pip3 install -e git+github.com/secynic/ipwhois@master#egg=ipwhois
 
 
