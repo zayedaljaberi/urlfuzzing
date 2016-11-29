@@ -5,6 +5,7 @@ Using this tool will allow you to catagories all the common servers, cms and ext
 to discover hidden folders and backups that might contain valuable information.
 
 
+
 #Pre-Requirement
 - Pip (if you don't have it use the command below in terminal)
 > sudo easy_install pip
@@ -19,10 +20,15 @@ For Linux Users:
 or
 > pip3 install -e git+github.com/secynic/ipwhois@master#egg=ipwhois
 
+
+
 #USING
 > python urlfuzzing.py 
 
 
+
+
 #Credit 
 http://wesecure.ae
+
 Support@wesecure.ae
