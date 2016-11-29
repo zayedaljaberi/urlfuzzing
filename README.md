@@ -34,3 +34,5 @@ or
 http://wesecure.ae
 
 Support@wesecure.ae
+
+![alt tag](https://image-store.slidesharecdn.com/36a45132-c559-49ed-9789-e953658a3d06-large.png)
