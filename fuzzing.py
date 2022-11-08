@@ -10,7 +10,7 @@ from ipwhois import IPWhois
 
 print('')
 print('Advance Fuzzing v1.0, 2016 Development by Zayed AlJaberi')
-print('zayed.aljaberi@gmail.com    |    http://wesecure.ae')
+print('zayed.aljaberi@gmail.com    |   http://wesecure.ae')
 
 
 real_path = os.path.dirname(os.path.realpath(__file__))
